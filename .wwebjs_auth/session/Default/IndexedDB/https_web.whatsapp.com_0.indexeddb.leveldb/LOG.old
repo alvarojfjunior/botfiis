@@ -1,0 +1,50 @@
+2022/08/31-14:38:30.299 4bfc Reusing MANIFEST C:\dev\botFIIs\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/31-14:38:30.299 4bfc Recovering log #749
+2022/08/31-14:38:30.300 4bfc Reusing old log C:\dev\botFIIs\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000749.log 
+2022/08/31-14:38:30.961 7b0 Compacting 1@0 + 1@1 files
+2022/08/31-14:38:30.996 7b0 Generated table #752@0: 17489 keys, 454820 bytes
+2022/08/31-14:38:31.002 7b0 Generated table #753@0: 537 keys, 16974 bytes
+2022/08/31-14:38:31.002 7b0 Compacted 1@0 + 1@1 files => 471794 bytes
+2022/08/31-14:38:31.004 7b0 compacted to: files[ 0 2 24 0 0 0 0 ]
+2022/08/31-14:38:41.057 72b4 Compacting 1@1 + 10@2 files
+2022/08/31-14:38:41.183 72b4 Generated table #754@1: 29884 keys, 2257921 bytes
+2022/08/31-14:38:41.306 72b4 Generated table #755@1: 52178 keys, 2272581 bytes
+2022/08/31-14:38:41.349 72b4 Generated table #756@1: 5899 keys, 2157241 bytes
+2022/08/31-14:38:41.410 72b4 Generated table #757@1: 2854 keys, 2160968 bytes
+2022/08/31-14:38:41.455 72b4 Generated table #758@1: 3150 keys, 2152074 bytes
+2022/08/31-14:38:41.489 72b4 Generated table #759@1: 2949 keys, 2149350 bytes
+2022/08/31-14:38:41.521 72b4 Generated table #760@1: 4351 keys, 2159775 bytes
+2022/08/31-14:38:41.613 72b4 Generated table #761@1: 33473 keys, 2256951 bytes
+2022/08/31-14:38:41.690 72b4 Generated table #762@1: 28332 keys, 2265684 bytes
+2022/08/31-14:38:41.707 72b4 Generated table #763@1: 7896 keys, 635458 bytes
+2022/08/31-14:38:41.707 72b4 Compacted 1@1 + 10@2 files => 20468003 bytes
+2022/08/31-14:38:41.708 72b4 compacted to: files[ 0 1 24 0 0 0 0 ]
+2022/08/31-14:38:41.709 72b4 Delete type=2 #737
+2022/08/31-14:38:41.709 72b4 Delete type=2 #738
+2022/08/31-14:38:41.709 72b4 Delete type=2 #739
+2022/08/31-14:38:41.709 72b4 Delete type=2 #740
+2022/08/31-14:38:41.709 72b4 Delete type=2 #741
+2022/08/31-14:38:41.709 72b4 Delete type=2 #742
+2022/08/31-14:38:41.709 72b4 Delete type=2 #743
+2022/08/31-14:38:41.709 72b4 Delete type=2 #744
+2022/08/31-14:38:41.709 72b4 Delete type=2 #745
+2022/08/31-14:38:41.709 72b4 Delete type=2 #746
+2022/08/31-14:38:41.709 72b4 Delete type=2 #747
+2022/08/31-14:38:41.709 72b4 Delete type=2 #750
+2022/08/31-14:38:41.709 72b4 Delete type=2 #752
+2022/08/31-14:38:43.848 7b0 Compacting 1@1 + 6@2 files
+2022/08/31-14:38:43.903 7b0 Generated table #764@1: 37715 keys, 2166379 bytes
+2022/08/31-14:38:44.019 7b0 Generated table #765@1: 103459 keys, 2254295 bytes
+2022/08/31-14:38:44.135 7b0 Generated table #766@1: 102051 keys, 2253392 bytes
+2022/08/31-14:38:44.236 7b0 Generated table #767@1: 102284 keys, 2254239 bytes
+2022/08/31-14:38:44.330 7b0 Generated table #768@1: 102764 keys, 2255422 bytes
+2022/08/31-14:38:44.364 7b0 Generated table #769@1: 33312 keys, 722584 bytes
+2022/08/31-14:38:44.364 7b0 Compacted 1@1 + 6@2 files => 11906311 bytes
+2022/08/31-14:38:44.365 7b0 compacted to: files[ 0 0 24 0 0 0 0 ]
+2022/08/31-14:38:44.366 7b0 Delete type=2 #727
+2022/08/31-14:38:44.366 7b0 Delete type=2 #728
+2022/08/31-14:38:44.366 7b0 Delete type=2 #729
+2022/08/31-14:38:44.366 7b0 Delete type=2 #730
+2022/08/31-14:38:44.366 7b0 Delete type=2 #731
+2022/08/31-14:38:44.366 7b0 Delete type=2 #732
+2022/08/31-14:38:44.366 7b0 Delete type=2 #753
