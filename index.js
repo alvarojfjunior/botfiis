@@ -19,11 +19,12 @@ bot.connect().then(async (b) => {
     const cdi = taxes.data.results[0].cdi;
     const fatorDiario = taxes.data.results[0].daily_factor;
 
-    console.log(msg.body);
-
     const fundInfo = await bot.getFundInfo(msg.body);
 
-    console.log(fundInfo);
+    if (!fundInfo) {
+      msg.reply("Fundo não encontrado.")
+      return
+    }
 
     msg.reply(
       `*INFORMAÇÕES DO MERCADO*${"\n"}*Selic:* ${selic}${"\n"}*cdi:* ${cdi}${"\n"}*fator diário:* ${fatorDiario} ${"\n\n"}*INFORMAÇÕES DO ATIVO*${"\n"}*Razão social:* ${
